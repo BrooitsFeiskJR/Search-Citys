@@ -1,16 +1,7 @@
-# places_app
+# Search City APP
 
-A new Flutter project.
 
-## Getting Started
+## Projeto clonado do Dribble
+Design orignal: https://dribbble.com/shots/20368380-Trip-Advisor
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Resolvi montar esse projeto para aprimorar minhas habilidades em flutter
